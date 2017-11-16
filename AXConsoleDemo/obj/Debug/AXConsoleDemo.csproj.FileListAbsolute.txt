@@ -1,0 +1,2 @@
+C:\Repos\Git\AXConsoleDemo\AXConsoleDemo\AXConsoleDemo\bin\Debug\AXConsoleDemo.exe.config
+C:\Users\crisw\Source\Repos\AXConsoleDemo\AXConsoleDemo\bin\Debug\AXConsoleDemo.exe.config

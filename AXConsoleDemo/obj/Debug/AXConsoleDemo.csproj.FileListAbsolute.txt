@@ -1,2 +1,9 @@
 C:\Repos\Git\AXConsoleDemo\AXConsoleDemo\AXConsoleDemo\bin\Debug\AXConsoleDemo.exe.config
 C:\Users\crisw\Source\Repos\AXConsoleDemo\AXConsoleDemo\bin\Debug\AXConsoleDemo.exe.config
+C:\Users\crisw\Source\Repos\AXConsoleDemo\AXConsoleDemo\bin\Debug\AXConsoleDemo.exe
+C:\Users\crisw\Source\Repos\AXConsoleDemo\AXConsoleDemo\bin\Debug\AXConsoleDemo.pdb
+C:\Users\crisw\Source\Repos\AXConsoleDemo\AXConsoleDemo\bin\Debug\AXTest.dll
+C:\Users\crisw\Source\Repos\AXConsoleDemo\AXConsoleDemo\bin\Debug\AXTest.pdb
+C:\Users\crisw\Source\Repos\AXConsoleDemo\AXConsoleDemo\obj\Debug\AXConsoleDemo.csprojResolveAssemblyReference.cache
+C:\Users\crisw\Source\Repos\AXConsoleDemo\AXConsoleDemo\obj\Debug\AXConsoleDemo.exe
+C:\Users\crisw\Source\Repos\AXConsoleDemo\AXConsoleDemo\obj\Debug\AXConsoleDemo.pdb

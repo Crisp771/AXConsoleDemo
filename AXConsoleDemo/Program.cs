@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AXConsoleDemo
 {
@@ -10,6 +6,11 @@ namespace AXConsoleDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine($"Displaying content of NuGet Package Method AXTest().HelloWorld()");
+            Console.WriteLine($"================================================================");
+            Console.WriteLine(new AXTest.AXTest().HelloWorld());
+            Console.WriteLine($"================================================================");
+            Console.ReadLine();
         }
     }
 }
